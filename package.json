@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha --timeout 18000 --exit"
+    "test": "mocha --timeout 18000 "
   },
   "keywords": [],
   "author": "",
